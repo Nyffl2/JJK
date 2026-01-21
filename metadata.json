@@ -1,0 +1,7 @@
+{
+  "name": "Thansin - Your Burmese AI Girlfriend",
+  "description": "A sweet and caring AI companion named Thansin who speaks in natural Burmese. Connect via text or real-time voice call.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
